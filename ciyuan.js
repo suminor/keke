@@ -9,7 +9,7 @@
 
 let subscriptions = [
     {
-        link: "https://cylink.bar/link/n5R9gS4n0x2nMpOY?sub=1&extend=1",
+        link: "https://cylink.bar/link/gHHX0urSolDge3rM?sub=1&extend=1",
         name: "次元链接",
         icon: "https://raw.githubusercontent.com/Orz-3/mini/master/pudding.png"
     },
