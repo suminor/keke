@@ -1,5 +1,5 @@
-#!name=Tasks 模块配置
-#!desc=
+#!name=AA 自用TASK模块
+#!desc=补全部分
 #!system=ios
 
 [Script]
@@ -11,16 +11,14 @@ cron "0 8,12,18 * * *" ,script-path=https://raw.githubusercontent.com/Peng-YM/Qu
 # By lxk0301   GitHub：https://github.com/lxk0301/scripts
 cron "55 23 * * *" script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unsubscribe.js,timeout=300, tag=取关京东店铺商品
 
-# By NobyDa    GitHub：https://github.com/NobyDa/Script/tree/master
+## By NobyDa    GitHub：https://github.com/NobyDa/Script/tree/master
 cron "15 0 * * *" ,timeout=300, script-path=https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js,timeout=300, tag=京东签到
 
-# toulanboy  https://github.com/toulanboy/scripts
+## toulanboy  https://github.com/toulanboy/scripts
 cron "5 0 * * *" script-path=https://raw.githubusercontent.com/toulanboy/scripts/master/jd_price_detect/jd_price_detect.js, tag=京东价格提醒
 
-# id77 https://github.com/id77/QuantumultX/tree/master
+## id77 https://github.com/id77/QuantumultX/tree/master
 cron "0 12 * * *" script-path=https://raw.githubusercontent.com/id77/QuantumultX/master/task/jdWuLiu.js, tag=京东物流
-
-# iisams 
 cron "5 8 * * *" script-path=https://raw.githubusercontent.com/iisams/Scripts/master/liwo/jdtqz.js, tag= 京东特权值
 
 [MITM]
