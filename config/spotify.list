@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,spoti.fi
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotifycdn.net
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-KEYWORD,-spotify-com
+DOMAIN-KEYWORD,spotify.com
+USER-AGENT,spotify*
